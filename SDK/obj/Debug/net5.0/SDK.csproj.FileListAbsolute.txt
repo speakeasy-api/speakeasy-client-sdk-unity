@@ -1,0 +1,5 @@
+/Users/manjitbedi/Projects/Work/Speakeasy/speakeasy-client-sdk-unity/SDK/obj/Debug/net5.0/SDK.csproj.AssemblyReference.cache
+/Users/manjitbedi/Projects/Work/Speakeasy/speakeasy-client-sdk-unity/SDK/obj/Debug/net5.0/SDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manjitbedi/Projects/Work/Speakeasy/speakeasy-client-sdk-unity/SDK/obj/Debug/net5.0/SDK.AssemblyInfoInputs.cache
+/Users/manjitbedi/Projects/Work/Speakeasy/speakeasy-client-sdk-unity/SDK/obj/Debug/net5.0/SDK.AssemblyInfo.cs
+/Users/manjitbedi/Projects/Work/Speakeasy/speakeasy-client-sdk-unity/SDK/obj/Debug/net5.0/SDK.csproj.CoreCompileInputs.cache
